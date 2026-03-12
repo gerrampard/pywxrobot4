@@ -29,7 +29,7 @@
 - [x] [监控公众号推送](https://mp.weixin.qq.com/s/NyLFMiko0ShDLW9QARv7Pg)
 - [x] [自动同意好友请求](https://mp.weixin.qq.com/s/RBaP3csZObiHc0vFscWUKA)
 - [x] [自动下载文件、图片和视频](https://mp.weixin.qq.com/s/yEv1Cfkr7OTMUZvjidLoiA)
-- [x] 关键词自动邀请进群
+- [x] [关键词自动邀请进群](https://mp.weixin.qq.com/s/_4NO0-v2Tdg1HKlNjNTBSA)
 - [x] 群聊消息汇总
 - [x] 多余群聊清理
 - [x] 根据群聊对好友进行标签分类
