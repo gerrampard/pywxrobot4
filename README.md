@@ -8,6 +8,10 @@
 
 **需要公众号历史采集/搜一搜/视频号等数据可以看这个接口: https://wqup3673wn.apifox.cn/**
 
+#### 二次开发接口
+
+**目前给的插件都是开箱即用的，如果有需要进行二次开发的，可以看考虑带HTTP接口的插件：https://sn2rohg101.apifox.cn**
+
 #### 下载地址
 
 `https://www.123865.com/s/ihEKVv-Sflx?pwd=vCI5#`
